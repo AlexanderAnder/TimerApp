@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#008577</color>
+    <color name="colorSettings">#7000574B</color>
+    <color name="allWhite">#FFFFFF</color>
+    <color name="allWhiteTransparent">#50FFFFFF</color>
+    <color name="seekThumb">#5A7DD0</color>
+    <color name="colorControl">#c51162</color>
+    <color name="progressTint">#5A7DD0</color>
+    <color name="progressBackroundTint">#f4511e</color>
+</resources>
+
+
